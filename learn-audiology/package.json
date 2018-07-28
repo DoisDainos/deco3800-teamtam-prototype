@@ -1,0 +1,28 @@
+{
+  "name": "learn-audiology",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "classnames": "^2.2.5",
+    "history": "^1.17.0",
+    "npm": "^6.0.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-chartjs-2": "^2.7.0",
+    "react-chartjs2": "^1.2.1",
+    "react-d3-basic": "^1.6.11",
+    "react-dom": "^16.3.1",
+    "react-responsive-carousel": "^3.1.36",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "reactjs-popup": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  }
+}
